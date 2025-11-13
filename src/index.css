@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-gradient-to-b from-blue-100 to-purple-100 min-h-screen;
+  font-family: sans-serif;
+}
